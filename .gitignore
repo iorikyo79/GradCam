@@ -35,7 +35,10 @@ ENV/
 
 # Jupyter Notebook
 .ipynb_checkpoints
-*.ipynb
+
+# Images
+*.jpg
+*.jpeg
 
 # Distribution / packaging
 .Python
